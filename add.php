@@ -10,7 +10,7 @@
 <body>
 <div class="container pt-4">
 	<div class="row">
-	<div class="col-lg-8 m-auto d-block bg-light">
+	<div class="col-lg-8 m-auto d-block bg-dark">
 		<a href="index.php" class="btn btn-info float-left">Back</a>
 		<a href="logout.php" class="float-right"></a>
 		<h1 class="text-center text-success pt-4 pb-2">Add Product Form</h1>
