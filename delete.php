@@ -4,7 +4,7 @@ include 'connection.php';
 <!DOCTYPE html>
 <html>
 <head>
-	<title>delete product</title>
+	<title>delete products</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<script type="text/javascript" src="jquery.js"></script>
 	<script type="text/javascript" src="project.js"></script>
